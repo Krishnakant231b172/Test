@@ -1,4 +1,4 @@
 # Test
 
-I am student of jp
+I am student of juet
 My name is krishnakant
